@@ -3,6 +3,8 @@
 A computer vision project that uses **YOLO11n and ByteTrack** to detect and track vehicles in drone footage.
 
 The project explores how object detection models can be adapted to aerial imagery through fine-tuning, how inference settings affect detection results, and how multiple objects can be tracked across video frames.
+<img width="743" height="417" alt="image" src="https://github.com/user-attachments/assets/4e072893-8bbf-442f-b70c-b369e13051d2" />
+
 
 ## Overview
 
